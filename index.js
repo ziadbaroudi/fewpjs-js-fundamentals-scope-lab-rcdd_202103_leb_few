@@ -1,7 +1,8 @@
 let animal = ""
 
 function myAnimal(dog) {
-  smio  return animal
+  animal = dog;
+  return animal
 }
 myAnimal("dog")
 function yourAnimal() {

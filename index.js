@@ -1,8 +1,7 @@
 let animal = ""
 
-function myAnimal("dog") {
-  a = animal;
-  return animal
+function myAnimal(dog) {
+  smio  return animal
 }
 myAnimal("dog")
 function yourAnimal() {
